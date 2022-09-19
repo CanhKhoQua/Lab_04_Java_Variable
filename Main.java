@@ -43,7 +43,7 @@ public class Main {
         int kids = 3;
         System.out.println(kids);
 
-        boolean isRaining = false;
+        String isRaining = "Yes";
         System.out.println(isRaining);
 
         double price = 3.78;
