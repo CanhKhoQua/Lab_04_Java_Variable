@@ -41,25 +41,25 @@ public class Main {
 
 
         int kids = 3;
-        System.out.println(kids);
+        System.out.println("There are " + kids + " kids");
 
         String isRaining = "Yes";
         System.out.println(isRaining);
 
         double price = 3.78;
-        System.out.println(price);
+        System.out.println("The price of a gallon of gas is " + price);
 
         int favNum = 8;
-        System.out.println(favNum);
+        System.out.println("My favorite number is " + favNum);
 
         double size = 9.0;
-        System.out.println(size);
+        System.out.println("My shoes size is " + size);
 
         int birthMonth = 8;
-        System.out.println(birthMonth);
+        System.out.println("My birth month is " + birthMonth);
 
         String fullName = "Loc Nguyen";
-        System.out.println(fullName);
+        System.out.println("My full name is " + fullName);
 
     }
 }
